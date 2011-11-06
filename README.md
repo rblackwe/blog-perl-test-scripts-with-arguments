@@ -14,3 +14,7 @@ Init
 ## minimal_getopt_long 
 * prove minimal_getopt_long ::  --length 2
 
+## minimal_moose_getopt_long 
+* prove minimal_moosex_getopt.t :: --in in --out out
+* prove minimal_moosex_getopt   :: --in in --out out
+
