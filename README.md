@@ -7,7 +7,7 @@ Init
 
 
 ----
-== minimal_argv
+## minimal_argv
 * prove :: xxx yyy xxx
 * prove -r :: xxx yyy xxx
 
