@@ -11,3 +11,6 @@ Init
 * prove :: xxx yyy xxx
 * prove -r :: xxx yyy xxx
 
+## minimal_getopt_long 
+* prove minimal_getopt_long ::  --length 2
+
